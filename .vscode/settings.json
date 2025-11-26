@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/MULTI_AI_AGENT.egg-info/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}"
+    ]
+}
+
